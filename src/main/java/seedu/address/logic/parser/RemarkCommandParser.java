@@ -30,3 +30,4 @@ public class RemarkCommandParser {
         return new RemarkCommand(index, new Remark(remark));
     }
 }
+
