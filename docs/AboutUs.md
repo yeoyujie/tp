@@ -48,7 +48,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Lim Ai Lin
 
-<img src="images/limailin.png" width="200px">
+<img src="images/limailin.png.jpg" width="200px">
 
 [[github](http://github.com/LimAiLin)]
 [[portfolio](team/LimAiLin.md)]
